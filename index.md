@@ -10,3 +10,6 @@ Willkommen zu unserer praktischen Übung zu Git und GitHub. Wir haben für Euch 
 * Aufgabe 4
 * Aufgabe 5
 
+## Zitat der Woche
+
+> Bitte lest jeden Schritt in der Aufgabenbeschreibung auf GitHub komplett, bevor Ihr mit der Bearbeitung der jeweiligen Unterpunkte dieses Schritts beginnt. Dies erspart euch späteres neu beginnen, weil Ihr zunächst einen Hinweis in der Aufgabenstellung übersprungen habt, der kurz darauf relevant wird.
