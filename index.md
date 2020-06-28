@@ -4,9 +4,9 @@ Willkommen zu unserer praktischen Übung zu Git und GitHub. Wir haben für Euch 
 
 ## Liste der Aufgaben
 
-- Aufgabe 1
-- Aufgabe 2
-- Aufagbe 3
-- Aufgabe 4
-- Aufgabe 5
+* Aufgabe 1
+* Aufgabe 2
+* Aufagbe 3
+* Aufgabe 4
+* Aufgabe 5
 
